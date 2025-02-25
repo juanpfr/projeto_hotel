@@ -1,4 +1,4 @@
-# **Projeto de Hotel - Atividade de SQL para Aprendizado**
+# **Projeto de Hotel**
 
 ---
 
